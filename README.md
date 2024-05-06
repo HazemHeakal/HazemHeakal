@@ -53,7 +53,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hazem-heakal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hazem Heakal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23312263/hazem-heakal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Hazem Heakal" height="30" width="40" /></a>
-<a href="[https://fb.com/supun.nanayakkaraii](https://web.facebook.com/hazem.heakal.96/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hazem Heakal" height="30" width="40" /></a>
+<a href="https://web.facebook.com/hazem.heakal.96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hazem Heakal" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/hazemheakal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="Hazem Heakal" height="30" width="40" /></a>
 </p>
 <br>
 
